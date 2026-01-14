@@ -8,10 +8,10 @@ Welcome! This repository provides Android Kodi 21.3 builds, Kodi 21.3 backups, a
 - **Optional Apps:** Extra Android apps and utilities for enhanced functionality.
 
 ## Downloading Releases
-All updates and downloads are available on the [Releases page](https://github.com/KingBlap/KingBlaps-Public-Android-Repository/releases).
+All updates and downloads are available on the [Releases page](https://github.com/Kodi-organization/KingBlaps-Public-Android-Repository/releases/tag/Android).
 
 ## Getting Started
-1. Go to the [Releases page](https://github.com/KingBlap/KingBlaps-Public-Android-Repository/releases) and download the files you need.
+1. Go to the [Releases page](https://github.com/Kodi-organization/KingBlaps-Public-Android-Repository/releases/tag/Android) and download the files you need.
 2. Follow the installation or restoration steps below.
 3. For Kodi backups, use Kodi's built-in backup/restore feature.
 
@@ -64,18 +64,8 @@ Complete any on-screen instructions for Downloader and to manage files in Xplore
 
 Complete any on-screen instructions for Kodi restoration and setup.
 
-- **Android Phones:**
-  - Only the Downloader app is required. Follow similar steps down below to download, install assets, and restore Kodi.
-  
-  1. Install the Downloader app
-  2. Open Downloader and enter: [github.com/kingblap](https://github.com/KingBlap)
-  3. Navigate to the Repositories tab > KingBlap's Public Android Repository > Releases.
-  4. Download the desired assets.
-
-Complete any on-screen instructions to finish setup.
-
 ## Support
-For help or feature requests, visit the [Issues page](https://github.com/KingBlap/KingBlaps-Public-Android-Repository/issues).
+For help or feature requests, visit the [Issues page](https://github.com/Kodi-organization/KingBlaps-Public-Android-Repository/issues).
 
 ## Disclaimer
 Use these resources at your own risk.
